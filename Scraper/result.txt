@@ -1,0 +1,23 @@
+Symbol
+Last Price Change Chg % Currency Market Time Volume Shares Avg Vol (3m) Day Range 52-Wk Range Day Chart Market Cap
+A
+67.85 -1.51 -2.18% USD 4:02PM EST 2.242M - 2.732M 21.630B
+Trade
+B
+54.65 -0.78 -1.41% USD 4:02PM EST 240.728k - 249,301 2.800B
+Trade
+C
+54.25 -0.77 -1.40% USD 4:00PM EST 26.211M - 18.494M 132.490B
+Trade
+D
+74.00 -2.92 -3.80% USD 4:02PM EST 8.620M - 3.648M 48.580B
+Trade
+E
+31.36 -0.32 -1.01% USD 4:01PM EST 278.895k - 259,195 57.460B
+Trade
+F
+8.50 -0.02 -0.23% USD 4:01PM EST 44.464M - 48.207M 33.810B
+Trade
+G
+27.23 -0.17 -0.62% USD 4:02PM EST 789.023k - 749,434 5.180B
+Trade
